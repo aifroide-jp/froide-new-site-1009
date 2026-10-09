@@ -1,0 +1,120 @@
+{
+  "results": [
+    {
+      "width": 1440,
+      "overflow": false,
+      "brokenImages": [],
+      "headings": [],
+      "sections": [
+        "01 Hero",
+        "09 News",
+        "02 Services",
+        "03 Issues",
+        "04 AI Driven",
+        "05 Stance",
+        "06 Cases",
+        "07 Needs",
+        "08 Game",
+        "10 Recruit",
+        "11 Contact"
+      ],
+      "offscreen": []
+    },
+    {
+      "width": 1280,
+      "overflow": false,
+      "brokenImages": [],
+      "headings": [],
+      "sections": [
+        "01 Hero",
+        "09 News",
+        "02 Services",
+        "03 Issues",
+        "04 AI Driven",
+        "05 Stance",
+        "06 Cases",
+        "07 Needs",
+        "08 Game",
+        "10 Recruit",
+        "11 Contact"
+      ],
+      "offscreen": []
+    },
+    {
+      "width": 768,
+      "overflow": false,
+      "brokenImages": [],
+      "headings": [],
+      "sections": [
+        "01 Hero",
+        "09 News",
+        "02 Services",
+        "03 Issues",
+        "04 AI Driven",
+        "05 Stance",
+        "06 Cases",
+        "07 Needs",
+        "08 Game",
+        "10 Recruit",
+        "11 Contact"
+      ],
+      "offscreen": []
+    },
+    {
+      "width": 390,
+      "overflow": false,
+      "brokenImages": [],
+      "headings": [],
+      "sections": [
+        "01 Hero",
+        "09 News",
+        "02 Services",
+        "03 Issues",
+        "04 AI Driven",
+        "05 Stance",
+        "06 Cases",
+        "07 Needs",
+        "08 Game",
+        "10 Recruit",
+        "11 Contact"
+      ],
+      "offscreen": []
+    },
+    {
+      "width": 375,
+      "overflow": false,
+      "brokenImages": [],
+      "headings": [],
+      "sections": [
+        "01 Hero",
+        "09 News",
+        "02 Services",
+        "03 Issues",
+        "04 AI Driven",
+        "05 Stance",
+        "06 Cases",
+        "07 Needs",
+        "08 Game",
+        "10 Recruit",
+        "11 Contact"
+      ],
+      "offscreen": []
+    }
+  ],
+  "errors": [],
+  "menuOpen": true,
+  "menuClosed": true,
+  "motion": {
+    "reveal": 2,
+    "parallax": true
+  },
+  "missingLocalLinks": [],
+  "reducedMotion": {
+    "hiddenReveals": 0
+  },
+  "staticMode": {
+    "enabled": true,
+    "hiddenReveals": 0,
+    "parallax": false
+  }
+}

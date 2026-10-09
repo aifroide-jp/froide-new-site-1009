@@ -1,0 +1,37 @@
+{
+  "results": [
+    {
+      "width": 1440,
+      "overflow": false,
+      "broken": 0,
+      "offscreen": []
+    },
+    {
+      "width": 1280,
+      "overflow": false,
+      "broken": 0,
+      "offscreen": []
+    },
+    {
+      "width": 768,
+      "overflow": false,
+      "broken": 0,
+      "offscreen": []
+    },
+    {
+      "width": 390,
+      "overflow": false,
+      "broken": 0,
+      "offscreen": []
+    },
+    {
+      "width": 375,
+      "overflow": false,
+      "broken": 0,
+      "offscreen": []
+    }
+  ],
+  "errors": [],
+  "open": true,
+  "closed": true
+}
